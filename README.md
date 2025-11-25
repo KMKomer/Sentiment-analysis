@@ -5,3 +5,8 @@ The best way to do so is by taking costumers reviews.
 The problem is that when a business grows it's needs to continuous optimization grow as well. 
 I'm here to implement a very effective solution to this problem. 
 Which is sentiment analysis models that uses data to digest it into a report showing the current costumer satisfaction of the product.
+
+### Objectives:
+1- analysing and visualising the data 
+
+2- using distiBERT to automate the sentiment extraction process 
