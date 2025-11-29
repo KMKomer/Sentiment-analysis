@@ -9,4 +9,4 @@ Which is sentiment analysis models that uses data to digest it into a report sho
 ### Objectives:
 1- analysing and visualising the data 
 
-2- using distiBERT to automate the sentiment extraction process 
+2- using python NLTK library to automate the sentiment extraction process 
