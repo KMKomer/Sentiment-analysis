@@ -1,1 +1,4 @@
+The BERT model has been fine tuned on a kaggle data set from tweetes on tweeter 
+
+The model hited an accuracy level of 99% on train data and 92% on validation data and 88% on test data 
 
