@@ -7,4 +7,4 @@ I'm here to implement a very effective solution to this problem.
 Which is sentiment analysis models that uses data to digest it into a report showing the current costumer satisfaction of the product.
 
 ### Objectives:
-1-
+- fine-tune bert language model on sentiment classification 
